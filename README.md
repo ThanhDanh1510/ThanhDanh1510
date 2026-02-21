@@ -10,7 +10,7 @@
  
 🌱 I’m currently learning **Basic Deeplearning and Some Advanced Algorithms**
 
-🔭 My current research focuses on: 🧩 **Vision Language Models (VLMs),** ⚡ **Efficient VLM** and 💹 **Market Microstructure**
+🔭 My current research focuses on: 🧩 **Traditional ML / Statistical Learning,** ⚡ **Time-series Analysis** and 💹 **Market Microstructure**
 
 ⚡ Random quote: **To be ballin, you gotta b-all-in**
 
