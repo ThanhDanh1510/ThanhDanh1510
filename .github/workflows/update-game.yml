@@ -1,0 +1,22 @@
+name: Update Space Shooter Game
+on:
+  schedule:
+    - cron: '0 0 * * *' # Tự động chạy vào 00:00 UTC mỗi ngày
+  workflow_dispatch: # Cho phép bạn bấm chạy thủ công bất cứ lúc nào
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2 # Bắt buộc phải có để tính năng gộp (amend) commit hoạt động ổn định
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random' # Các kiểu bay: 'random', 'column', hoặc 'row'
