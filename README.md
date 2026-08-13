@@ -55,8 +55,8 @@
  
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThanhDanh1510&show_icons=true&theme=tokyonight&count_private=true" alt="ThanhDanh1510's GitHub Stats" height="190px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThanhDanh1510&layout=compact&theme=tokyonight" alt="ThanhDanh1510's Top Languages" height="190px"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ThanhDanh1510&show_icons=true&theme=tokyonight&count_private=true" alt="ThanhDanh1510's GitHub Stats" height="190px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThanhDanh1510&layout=compact&theme=tokyonight" alt="ThanhDanh1510's Top Languages" height="190px" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhDanh1510&theme=tokyonight" alt="ThanhDanh1510's Streak Stats" />
