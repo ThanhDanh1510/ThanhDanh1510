@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhDanh1510&layout=compact&theme=tokyonight" alt="ThanhDanh1510's Top Languages" height="190px" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhDanh1510&theme=tokyonight" alt="ThanhDanh1510's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ThanhDanh1510&theme=tokyonight" alt="ThanhDanh1510's Streak Stats" />
 </p>
 
 <hr/>
